@@ -1,5 +1,5 @@
 ### Hello world
--👋 I'm Hà Sơn
+👋 I'm Hà Sơn
 - 🌱 I’m currently learning AI
 - 🤩I love walking and listening to music
 - 💬 Ask me about ...
